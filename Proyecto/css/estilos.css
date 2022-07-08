@@ -1,0 +1,97 @@
+
+#menu{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#menu li a{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#telefono{
+    padding-right: 100px;
+    padding-left: 30px;
+    width: 30px;
+}
+#mensaje{
+    padding-right: 30px;
+    width: 30px;
+    padding-left: 30px;
+}
+#carrito{
+    width: 30px;
+    border: 30px;
+}
+
+.carousel-inner{
+    max-height: 35rem;
+}
+@media(max-width:768px){
+    #intro{
+        width: 90% !important;
+    }
+        .servicio-fila{
+            width: 100% !important;
+            text-align: center;
+        }
+   #intro2{
+    width:90% !important ;
+   }
+   #intro3{
+    width:90% !important ;
+   
+    }
+    #intro4{
+        width:90% !important ;
+   }
+   #intro5{
+        width:90% !important ;
+   }
+}
+@media(max-width:576px){
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+}
+
+#local{
+    background: #f3f3f3;
+    padding-bottom: 300px;
+    display:flex;
+    justify-content: center;
+}
+.wrapper{
+    width: 50%;
+    margin-left: 100px;
+    padding-top: 150px; ;
+}
+.redes-sociales{
+    padding-right: 15px;
+}
+.icono-wrap:hover{
+    transform: scale(1.10);
+}
+
+.carousel-caption {
+    top: 65%!important;
+    transform: translateY(-75%);
+}
+@media(max-width:576px){
+    .icono-wrap1{
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+}
+
+/**#fondo1{
+    display: flex;
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),
+    url(/foto/Fondo1.jpg);
+    width: auto;
+    height: 500px;
+    color:white;
+    text-align: center;
+}
+*/

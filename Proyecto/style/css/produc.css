@@ -1,0 +1,30 @@
+body
+{
+    background: #ffe259;
+    background: linear-gradient(to left, #ffa751, #ffe259);
+}
+
+.hola
+{
+    width: 70px;
+
+}
+.logo
+{
+    background-image: url(/style/img/miel5.jpg);
+    background-position: center center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boton
+{
+    width: 80px;
+    background-color: #ffa751;
+    border: none;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    background-position: center;
+}

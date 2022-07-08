@@ -1,0 +1,24 @@
+.hola
+{
+    width: 70px;
+
+}
+.fb
+{
+    width: 35px;
+}
+.logo
+{
+    background-image: url(/style/img/login.jpg);
+    background-position: center center;
+}
+body
+{
+    background: linear-gradient(to left, #ffa751, #ffe259);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 20px;
+    padding: 10px;
+}
+
